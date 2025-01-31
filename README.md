@@ -31,7 +31,7 @@ For more details, check out the [repository](https://github.com/Kalashi-Saed-Col
 ---
 
 **Reach me at**:  
-📧 kalashi.kamand [@] Gmail {.DOT.} com  
-📬 kalashi.kamand [@] modares.ac {.DOT.} ir
+📧 kalashi.kamand [at] gmail [dot] com   
+📬 kalashi.kamand [at] modares [dot] ac [dot] ir  
 
 Thanks for stopping by!
