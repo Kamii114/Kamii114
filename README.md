@@ -29,12 +29,12 @@
 
 <p align="left">
 - I'm a recent M.Sc. graduate in Information Technology Engineering with a strong background in Deep Learning and Network Science.<br><br>
-- I’m looking forward to working on new, exciting projects that combine AI research with practical problem-solving.<br>
+- I’m looking forward to working on new, exciting projects! <br>
 </p>
 
 ---
 
-## 🛠️ Libraries & Tools
+## 🛠️ Libraries
 
 <p align="center">
   <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/>
