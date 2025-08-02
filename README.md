@@ -1,110 +1,67 @@
-<p align="center">
-  
-<br/>
-
-<a href="https://www.linkedin.com/in/kamand-kalashi-0696b1199/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>  
-<a href='https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href="mailto:kalashi.kamand@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.researchgate.net/profile/Kamand-Kalashi" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
-</a>
-
-<br/>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kamii114&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
+<!-- Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamii114/Kamii114/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamii114/Kamii114/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kamii114/Kamii114/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=25&pause=1000&color=0019B5&center=true&vCenter=true&width=435&lines=Hey!+I'm+Kamand" alt="Typing SVG" />
+  </a>
+</p>
 
+##
 
-# Hey there 👋
-
-Welcome to my GitHub! I'm Kamand, currently a master's student in Information Technology Engineering - Network Science at Tarbiat Modares University, Tehran, Iran. I have a deep interest in network science, machine learning, and recommendation systems. My current research focuses on community detection in complex networks, fashion recommender systems, and graph analysis.
-
-- 🧑‍🎓 **Research Assistant** at Tarbiat Modares University under the supervision of Dr. Babak Teimourpour.
-- 🎓 **M.Sc.** in Information Technology Engineering (Network Science), with a thesis on hybrid deep learning fashion recommendation models.
-
-Feel free to explore my projects related to:
-- **Deep learning for fashion image classification**
-- **Community detection in co-word and perfume networks**
-- **Recommender systems using transfer learning**
-
-You can find my academic work on:
-- [Google Scholar](https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/kamand-kalashi-0696b1199/)
-## 🎉 Collaborative GitHub Repository 🎉
-
-In addition to my personal projects, I collaborate with fellow researchers on a dedicated GitHub account. We focus on various domains, including machine learning 🤖, network analysis 🌐, and computer vision 👀.
-
-### Explore our collaborative work:
-[**Kalashi-Saed Collaborations GitHub**](https://github.com/Kalashi-Saed-Collaborations)
-
----
-
-## 📂 New Repository: [Sentiment-Driven Community Detection in a Network of Perfume Preferences](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)
-
-This repository is part of our collaborative efforts, presenting datasets and methodologies used in our paper *"Sentiment-Driven Community Detection in a Network of Perfume Preferences."* We apply sentiment analysis and community detection techniques to analyze perfume preferences based on positive user reviews, uncovering shared consumer preferences in the fragrance industry.
-
-For more details, check out the [repository](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection).
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamand-kalashi-0696b1199/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>  
+  <a href='https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF'>
+  </a>
+  <a href="mailto:kalashi.kamand@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.researchgate.net/profile/Kamand-Kalashi" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
+  </a>
+</p>
 
 ---
 
-**Reach me at**:  
-📧 kalashi.kamand [at] gmail [dot] com   
-📬 kalashi.kamand [at] modares [dot] ac [dot] ir  
+## About Me
 
-Thanks for stopping by!
+<p align="left">
+- I'm a recent M.Sc. graduate in Information Technology Engineering with a strong background in Deep Learning and Network Science.<br><br>
+- I’m looking forward to working on new, exciting projects that combine AI research with practical problem-solving.<br>
+</p>
+
+---
+
+## 🛠️ Libraries & Tools
+
+<p>
+  <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/>
+  <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/>
+  <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white'/>
+  <img src='https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Matplotlib-white?style=flat&logo=Matplotlib&logoColor=black'/>
+</p>
+
+---
+
+## 📂 Featured Repository: [Sentiment-Driven Community Detection in a Network of Perfume Preferences](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)
+
+In addition to my personal projects, I collaborate with fellow researchers on a dedicated GitHub account. This repository is part of our collaborative efforts, presenting datasets and methodologies used in our paper *"Sentiment-Driven Community Detection in a Network of Perfume Preferences."*  
+
+We apply sentiment analysis and community detection techniques to analyze perfume preferences based on positive user reviews, uncovering shared consumer preferences in the fragrance industry.  
+
+🔗 Check out the [repository](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection) for more details.
+
+---
