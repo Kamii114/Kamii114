@@ -50,6 +50,10 @@
 
 ## 📂 Featured Repository: [Sentiment-Driven Community Detection in a Network of Perfume Preferences](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection)
 
+<p align="center">
+  <img src="PerfumeCoPreferenceNetwork.png" alt="Perfume CoPreference Network" width="600"/>
+</p>
+
 In addition to my personal projects, I collaborate with fellow researchers on a dedicated GitHub account. This repository is part of our collaborative efforts, presenting datasets and methodologies used in our paper *"Sentiment-Driven Community Detection in a Network of Perfume Preferences."*  
 
 We apply sentiment analysis and community detection techniques to analyze perfume preferences based on positive user reviews, uncovering shared consumer preferences in the fragrance industry.  
