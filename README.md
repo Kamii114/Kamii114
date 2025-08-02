@@ -1,10 +1,3 @@
-<!-- Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamii114/Kamii114/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamii114/Kamii114/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kamii114/Kamii114/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
