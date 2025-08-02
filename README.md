@@ -15,11 +15,11 @@
   <a href='https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF'>
   </a>
-  <a href="mailto:kalashi.kamand@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.researchgate.net/profile/Kamand-Kalashi" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
+  </a>
+    <a href="mailto:kalashi.kamand@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -36,14 +36,13 @@
 
 ## 🛠️ Libraries & Tools
 
-<p>
+<p align="center">
   <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/>
-  <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white'/>
   <img src='https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/>
   <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white'/>
-  <img src='https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=white'/>
   <img src='https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white'/>
+  <img src='https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=white'/>
   <img src='https://img.shields.io/badge/Matplotlib-white?style=flat&logo=Matplotlib&logoColor=black'/>
 </p>
 
