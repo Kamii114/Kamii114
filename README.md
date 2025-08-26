@@ -61,3 +61,18 @@ We apply sentiment analysis and community detection techniques to analyze perfum
 🔗 Check out the [repository](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection) for more details.
 
 ---
+
+## 📂 Featured Repository: [MCNN-14: Fashion Image Classification](https://github.com/Kalashi-Saed-Collaborations/MCNN-14-Fashion-Image-Classification)
+
+<p align="center">
+  <img src="Structure of the Proposed MCNN Model and visualization of the feature maps of C1 ~ C4 layers.png" alt="MCNN-14 Architecture" width="600"/>
+</p>
+
+This repository contains the implementation of **MCNN-14**, a Multiple Convolutional Neural Network model proposed in our paper:  
+> Saed et al. [*“An Efficient Multiple Convolutional Neural Network Model (MCNN-14) for Fashion Image Classification.”*](https://ieeexplore.ieee.org/abstract/document/10533341). ICWR2024
+
+We propose a novel MCNN architecture that balances **high classification accuracy** with **computational efficiency** for fashion image classification.  
+
+> **✨ Key Contribution:** Achieved **93.08% accuracy** on the Fashion-MNIST dataset, surpassing previous benchmarks.
+
+🔗 Check out the [repository](https://github.com/Kalashi-Saed-Collaborations/MCNN-14-Fashion-Image-Classification) for more details.
