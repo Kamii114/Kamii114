@@ -28,7 +28,7 @@
 ## About Me
 
 <p align="left">
-- I'm a recent M.Sc. graduate in Information Technology Engineering with a strong background in Deep Learning and Network Science.<br><br>
+- I'm a recent M.Sc. graduate in Information Technology Engineering.<br><br>
 - I’m looking forward to working on new, exciting projects! <br>
 </p>
 
